@@ -32,6 +32,7 @@ This project was built using:
 - 🏗 **HTML** – Structure of the game  
 - 🎨 **CSS** – Styling and animations  
 - ⚡ **JavaScript** – Game logic and sound effects  
+-    **Bootstrap** - For Buttons
 
 ---
 
