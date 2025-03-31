@@ -1,0 +1,76 @@
+* {
+    margin: 0;
+    /* border: 0; */
+    padding: 0;
+    
+}
+
+.press-start-2p-regular {
+    font-weight: 400;
+    font-family: "Press Start 2P", system-ui;
+    font-style: normal;
+  }
+  
+
+body {
+    background-color: #555;
+    text-align: center;
+}
+
+h1 {
+    color: whitesmoke;
+}
+
+.container {
+    height: 70vh;
+    /* width: 70vh; */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    background-color: #3a3a3a;
+}
+
+.game {
+    height: 60vmmin;
+    width: 60vmin;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 1.5vmin;
+}
+
+.box {
+    height: 18vmin;
+    width: 18vmin;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 0 0.3rem whitesmoke;
+    font-size: 10vmin;
+    color: #A57982;
+    background-color: #444;
+    &:hover {
+        opacity: 0.6;
+    }
+}
+
+/* .reset {
+    padding: 1rem;
+    background-color: whitesmoke;
+    width: 13vmin;
+    border-radius: 16px;
+} */
+
+.msg-container {
+    height: 30vmin;
+}
+
+#msg {
+    color: whitesmoke;
+    font-size: 4rem;
+}
+
+.hide {
+    display: none;
+}
