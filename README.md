@@ -42,7 +42,7 @@ The game includes sound effects for:
 - Winning the game  
 - A draw outcome  
 
-*(If you used free sound effects, mention the source here.)*  
+[Sound Source](https://pixabay.com/sound-effects/search/victory/)
 
 ---
 
